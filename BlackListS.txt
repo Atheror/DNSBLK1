@@ -8,7 +8,6 @@ ardownload.adobe.com
 au.download.windowsupdate.com
 canalrcn.com
 caracoltv.com
-cdn2.hubspot.net
 ciberpeliculashd.net
 deezer.com
 delivery.mp.microsoft.com
