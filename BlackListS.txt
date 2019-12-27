@@ -1,43 +1,55 @@
-11.tlu.dl.delivery.mp.microsoft.com
-2.tlu.dl.delivery.mp.microsoft.com
-3.tlu.dl.delivery.mp.microsoft.com
-7.au.download.windowsupdate.com
-7.tlu.dl.delivery.mp.microsoft.com
+11.tlu.dl.delivery.mp.microsoft.com # Windows Update
+2.tlu.dl.delivery.mp.microsoft.com # Windows Update
+3.tlu.dl.delivery.mp.microsoft.com # Windows Update
+7.au.download.windowsupdate.com # Windows Update
+7.tlu.dl.delivery.mp.microsoft.com # Windows Update
 alt-torrent.com
 ardownload.adobe.com
-au.download.windowsupdate.com
-canalrcn.com
-caracoltv.com
-ciberpeliculashd.net
-deezer.com
-delivery.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-download.microsoft.com
-download.windowsupdate.com
-facebook.com
-identi.li
+au.download.windowsupdate.com # Windows Update
+canalrcn.com # mmedia
+caracoltv.com # mmedia
+cdn2.hubspot.net # mmedia
+ciberpeliculashd.net # mmedia
+co.radio.net # mmedia
+deezer.com # mmedia
+delivery.mp.microsoft.com # Windows Update
+dl.delivery.mp.microsoft.com # Windows Update
+download.microsoft.com # Windows Update
+download.windowsupdate.com # Windows Update
+facebook.com # social
+googlevideo.com # youtube
+identi.li # descargas
 internet-radio.com
 kingsoftstore.com
-letio.com #radio
+letio.com # mmedia
 liveonlineradio.net
-mdstrm.com
+mdstrm.com # Windows Update
 mega-estrenos.org
-mp.microsoft.com
-ntservicepack.microsoft.com
-officecdn.microsoft.com
+mp.microsoft.com# Windows Update
+ntservicepack.microsoft.com # Windows Update
+officecdn.microsoft.com # Windows Update
+onlineradiobox.com # mmedia
 play.google.com
-racing
-radiolatina.info
-rcnmundo.com
-review
-spotify.com
-streamtheworld.com
-streema.com
-test.stats.update.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
-tunein.com
-update.microsoft.com
-windowsupdate.com
-windowsupdate.microsoft.com
+radio.net # mmedia
+radiolatina.info # mmedia
+radioonline.com.co # mmedia
+radios.com.co # mmedia
+rcnmundo.com # mmedia
+spotify.com # mmedia
+streamtheworld.com # mmedia
+streema.com # mmedia
+test.stats.update.microsoft.com # Windows Update
+tlu.dl.delivery.mp.microsoft.com # Windows Update
+tunein.com # mmedia
+update.microsoft.com # Windows Update
+windowsupdate.com # Windows Update
+windowsupdate.microsoft.com# Windows Update
 wps.com
-youtube.com
+www.radioonline.com.co # mmedia
+www.youtube.com # youtube
+youtube-ui.l.google.com # youtube
+youtube.com # youtube
+youtubei.googleapis.com # youtube
+ytimg.com # youtube
+ytimg.l.google.com # youtube
+ytstatic.l.google.com # youtube
