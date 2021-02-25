@@ -1,3 +1,5 @@
+.cdninstagram.com
+.instagram.com
 11.tlu.dl.delivery.mp.microsoft.com # Windows Update
 2.tlu.dl.delivery.mp.microsoft.com # Windows Update
 3.tlu.dl.delivery.mp.microsoft.com # Windows Update
@@ -9,6 +11,7 @@ au.download.windowsupdate.com # Windows Update
 canalrcn.com # mmedia
 caracoltv.com # mmedia
 cdn2.hubspot.net # mmedia
+cdninstagram.com
 ciberpeliculashd.net # mmedia
 co.radio.net # mmedia
 deezer.com # mmedia
@@ -19,6 +22,7 @@ download.windowsupdate.com # Windows Update
 facebook.com # social
 googlevideo.com # youtube
 identi.li # descargas
+instagram.com
 internet-radio.com
 kingsoftstore.com
 letio.com # mmedia
