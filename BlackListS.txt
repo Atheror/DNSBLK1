@@ -1,5 +1,6 @@
 .cdninstagram.com
 .instagram.com
+.instanet.bar
 11.tlu.dl.delivery.mp.microsoft.com # Windows Update
 2.tlu.dl.delivery.mp.microsoft.com # Windows Update
 3.tlu.dl.delivery.mp.microsoft.com # Windows Update
@@ -23,6 +24,7 @@ facebook.com # social
 googlevideo.com # youtube
 identi.li # descargas
 instagram.com
+instanet.bar
 internet-radio.com
 kingsoftstore.com
 letio.com # mmedia
